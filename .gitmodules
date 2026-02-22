@@ -1,0 +1,6 @@
+[submodule "tools/drs-converter"]
+	path = tools/drs-converter
+	url = https://github.com/yoyoyonono/drs-converter
+[submodule "tools/s3p_extract"]
+	path = tools/s3p_extract
+	url = https://github.com/mon/s3p_extract
