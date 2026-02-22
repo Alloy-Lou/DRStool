@@ -3,4 +3,6 @@ build/
 *.exe
 *.out
 .vscode/
-crashlog.txt
+*.log
+10001/
+save.txt
